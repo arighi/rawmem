@@ -1,0 +1,4 @@
+rawmem
+
+Kernel module that registers a new character device (/dev/rawmem) that allows
+to map any physical memory area to userspace.
